@@ -20,9 +20,9 @@ The JSON data contains a huge number of data fields and for this project I have 
 
 
 The Data is stored in a Pandas Dataframe and this dataframe is stored in Excel using the Openpyxl Library. The libraries used are Pandas, requests, Openpyxl. The datetime module was used to convert the date from 
-a UNIX timestamp to a readable date format. The OS module was also used to check if the file already exists. If it does then data will be appened else a new file will be created and data will be written to it.
+a UNIX timestamp to a readable date format. The OS module was also used to check if the file already exists. If it does then data will be appended else a new file will be created and data will be written to it.
 
-This project would be the  first step in a real-world Data Analytics process. The data collection is often done using APIs and thus it is crucial step in data gathering and warehousing. This data can be transformed and analyzed as required.
+This project would often be the  first step in a real-world Data Analytics process. The data collection is often done using APIs and thus it is crucial step in data gathering and warehousing. This data can be transformed and analyzed as required.
 
 
 
